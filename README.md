@@ -3,15 +3,6 @@
 <p align="center">
   <b>Freelance Data Engineer | AI Enthusiast</b><br>
 
-
----
-
-### My Projects
-
-1. Modeling of Sales Data on Databricks
-2. DTL Pipeline on databricks 
-3. A simple spark-icerberg pipeline on Docker 
-
 ---
 
 ### 🧩 Hands-on Experience 
@@ -51,11 +42,7 @@ I’m Najeebullah, a Freelance Data Engineer at Fiverr.
 ---
 
 ### 📫 Contact
-For freelance collaborations or project discussions:  
-📧 najeebullah.data.engineer@gmail.com
+For freelance collaborations or project discussions:
   <a href="mailto:najeebullah.data.engineer@gmail.com">📧 Email</a> |
   <a href="https://www.linkedin.com/in/YOUR-LINK/">💼 LinkedIn</a>
 </p>
----
-
-
