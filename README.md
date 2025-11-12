@@ -8,24 +8,11 @@
 
 ---
 
-### 🧠 About Me
+### My Projects
 
-I’m Najeebullah, a Freelance Data Engineer at Fiverr.
-
----
-
-### ⚙️ Tech Stack
-
-1. Databricks
-2. Apache Spark 
-3. Airflow
-4. Python
-5. SQL
-6. Docker
-7. Flink
-8. dbt-core
-
-
+1. Modeling of Sales Data on Databricks
+2. DTL Pipeline on databricks 
+3. A simple spark-icerberg pipeline on Docker 
 
 ---
 
@@ -40,8 +27,28 @@ I’m Najeebullah, a Freelance Data Engineer at Fiverr.
 
 ---
 
+### ⚙️ Tech Stack
+
+1. Databricks
+2. Apache Spark 
+3. Airflow
+4. Python
+5. SQL
+6. Docker
+7. Flink
+8. dbt-core
+9. Iceberg 
+
+---
+
 ### 🚀 Current Experiments
 Exploring Open Table Formats and Data Warehousing skills and techniques. 
+
+---
+
+### 🧠 About Me
+
+I’m Najeebullah, a Freelance Data Engineer at Fiverr.
 
 ---
 
@@ -51,4 +58,4 @@ For freelance collaborations or project discussions:
 
 ---
 
-     ⭐ Thanks for visiting my GitHub! ⭐
+    **Thanks for visiting my GitHub!**
